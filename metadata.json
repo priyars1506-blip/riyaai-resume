@@ -1,0 +1,5 @@
+{
+  "name": "Riya Resume Analyzer",
+  "description": "A powerful tool to analyze resumes, extract skills, and compare them against job descriptions using Google Gemini AI.",
+  "requestFramePermissions": []
+}
