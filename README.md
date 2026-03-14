@@ -16,6 +16,9 @@ A powerful, AI-driven resume analysis application built for hackathons. It helps
   - Match skills against a target JD.
   - Identify missing skills.
   - Calculate alignment percentage.
+  
+  Here my video demo for this project:
+  https://youtu.be/G6AOKCB-OaI
 
 ## Tech Stack
 
